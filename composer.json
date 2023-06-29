@@ -1,5 +1,5 @@
 {
-  "name": "interJamesy/sparkpost",
+  "name": "sparkpost/sparkpost",
   "description": "Client library for interfacing with the SparkPost API.",
   "license": "MIT",
   "authors": [
